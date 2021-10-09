@@ -1,6 +1,6 @@
 ### Hi there,I'm Juan Navarro 👋
 
-<!-- ![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)-->
+![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)
 <!--
 **Navarrojuan212/Navarrojuan212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
