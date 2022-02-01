@@ -3,12 +3,10 @@
 
 CEO of [**_GirarNET S.A.S_**](https://www.linkedin.com/in/girarnet-s-a-s-51b319224/)
 
-<!--![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)-->
+<!--![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)
 
 
-### Hi there,I'm Juan Navarro 👋
-
----
+### Hi there,I'm Juan Navarro 👋 -->
 
 <!--
 **Navarrojuan212/Navarrojuan212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
