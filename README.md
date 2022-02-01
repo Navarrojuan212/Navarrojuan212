@@ -1,7 +1,7 @@
 
 ### I am a Telecommunications Engineer.
 
-CEO of [**_GirarNET S.A.S_**](https://www.linkedin.com/in/girarnet-s-a-s-51b319224/)
+**CEO** of [**_GirarNET S.A.S_**](https://www.linkedin.com/in/girarnet-s-a-s-51b319224/)
 
 <!--![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)
 
