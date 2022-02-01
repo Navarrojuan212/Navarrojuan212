@@ -2,7 +2,7 @@
 ## Telecommunications Engineer
 
 
-#### CEO of [**_GirarNET S.A.S_**](https://www.linkedin.com/in/girarnet-s-a-s-51b319224/)
+#### _CEO of_ [**_GirarNET S.A.S_**](https://www.linkedin.com/in/girarnet-s-a-s-51b319224/)
 
 <!--![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)
 
