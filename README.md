@@ -1,5 +1,5 @@
-
-## Telecommunications Engineer
+# MSc(c) Automatización y Control Industrial - Institución Universitaria ITM - Medellin Colombia
+## Ingeniero de Telecomuniaciones - Institución Universitaria ITM - Medellin Colombia
 
 <!--![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)
 #### _CEO of_ [**_GirarNET S.A.S_**](https://www.linkedin.com/in/girarnet-s-a-s-51b319224/)
