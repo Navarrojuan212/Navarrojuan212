@@ -1,7 +1,7 @@
 ## MSc(c) Automatización y Control Industrial 
 - Institución Universitaria ITM - Medellin Colombia
 
-## Ingeniero de Telecomuniaciones 
+## Ingeniero de Telecomunicaciones 
 - Institución Universitaria ITM - Medellin Colombia
 
 <!--![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)
