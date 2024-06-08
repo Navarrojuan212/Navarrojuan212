@@ -1,16 +1,16 @@
-## MSc(c) Automatización y Control Industrial 
-- Institución Universitaria ITM - Medellin Colombia
-
-## Ingeniero de Telecomunicaciones 
-- Institución Universitaria ITM - Medellin Colombia
-
-<!--![Pandas](https://drive.google.com/uc?export=view&id=1HF2v68At0PafkicsHqkcoqlPf5sfRBCu)
-#### _CEO of_ [**_GirarNET S.A.S_**](https://www.linkedin.com/in/girarnet-s-a-s-51b319224/)
-
+<div id="header" align="left"
+    style="background: linear-gradient(to right, white, black); height: 130px; padding: 20px; border-radius: 15px;">
+    <h1 style="text-align: left;">
+        <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="200" />
+        ¡Hey! I'm Navarro.
+    </h1>
+</div>
 
 
 
-### Hi there,I'm Juan Navarro 👋 -->
+
+
+
 
 <!--
 **Navarrojuan212/Navarrojuan212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
