@@ -1,0 +1,23 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Herramientas locales
+.claude/
+
+# Dependencias y builds (por si se agrega un sitio o scripts)
+node_modules/
+dist/
+build/
+
+# Variables de entorno / secretos
+.env
+.env.*
+*.txt
